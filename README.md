@@ -65,4 +65,5 @@ menu by right-clicking in the folder where you'd like it to be and selecting
 
 [visual studio code]: https://code.visualstudio.com/
 [editorconfig]: https://editorconfig.org/
-Created by Jason Heise  https://www.behance.net
+Created by Jason Heise  
+Owned by Jason Heise heisejason-png Giters
