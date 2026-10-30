@@ -1,4 +1,4 @@
-# [EditorConfig][] for [Visual Studio Code][]
+## [EditorConfig][] for [Visual Studio Code][]
 
 [![GitHub Actions][actions-img]][actions] [![Gitter][chat-img]][chat]
 
@@ -67,4 +67,4 @@ menu by right-clicking in the folder where you'd like it to be and selecting
 [editorconfig]: https://editorconfig.org/
 Created by Jason Heise  
 Owned by Jason Heise heisejason-png Giters
-https://www.x.com  Owned by Elon Musk 
+https://www.behance.net Owned by Scott Belsky
